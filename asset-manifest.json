@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cry-sky/js-react/tree/movie-app/static/css/main.f2a94455.chunk.css",
+    "main.js": "/cry-sky/js-react/tree/movie-app/static/js/main.2c761b8c.chunk.js",
+    "main.js.map": "/cry-sky/js-react/tree/movie-app/static/js/main.2c761b8c.chunk.js.map",
+    "runtime-main.js": "/cry-sky/js-react/tree/movie-app/static/js/runtime-main.c61027e7.js",
+    "runtime-main.js.map": "/cry-sky/js-react/tree/movie-app/static/js/runtime-main.c61027e7.js.map",
+    "static/js/2.19ff9cc5.chunk.js": "/cry-sky/js-react/tree/movie-app/static/js/2.19ff9cc5.chunk.js",
+    "static/js/2.19ff9cc5.chunk.js.map": "/cry-sky/js-react/tree/movie-app/static/js/2.19ff9cc5.chunk.js.map",
+    "index.html": "/cry-sky/js-react/tree/movie-app/index.html",
+    "precache-manifest.4bd46b7e879f9a83fd71f9e1ed3fb93e.js": "/cry-sky/js-react/tree/movie-app/precache-manifest.4bd46b7e879f9a83fd71f9e1ed3fb93e.js",
+    "service-worker.js": "/cry-sky/js-react/tree/movie-app/service-worker.js",
+    "static/css/main.f2a94455.chunk.css.map": "/cry-sky/js-react/tree/movie-app/static/css/main.f2a94455.chunk.css.map",
+    "static/js/2.19ff9cc5.chunk.js.LICENSE.txt": "/cry-sky/js-react/tree/movie-app/static/js/2.19ff9cc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c61027e7.js",
+    "static/js/2.19ff9cc5.chunk.js",
+    "static/css/main.f2a94455.chunk.css",
+    "static/js/main.2c761b8c.chunk.js"
+  ]
+}
